@@ -1,0 +1,234 @@
+- topic: "Payment Not Going Through"
+  example_types:
+    - example_type: "Frantic Freelancer"
+      example_background: "Alex is a freelance graphic designer who depends on quick transactions and hates delays."
+      example_query: "I tried paying for a client’s stock images twice, and my MillenniaCard was declined both times! It’s embarrassing and I’m on a tight deadline—why is this happening?"
+    - example_type: "Nervous First-Timer"
+      example_background: "Daniel is new to credit cards and worries every time a payment doesn’t go through."
+      example_query: "I just tried to pay my phone bill online, but it was rejected. I’m not sure if I messed up the card details. Could you check if something’s wrong on my account?"
+
+- topic: "Unexpected/Extra Fees on Statement"
+  example_types:
+    - example_type: "Fee-Focused Shopper"
+      example_background: "Priya meticulously checks her bank statements every month and hates any surprise charges."
+      example_query: "My statement shows a €12 fee labeled 'service charge' I’ve never seen before. Can you explain what this is for?"
+    - example_type: "Angry Skeptic"
+      example_background: "Boris feels banks are always out to sneak in extra costs and is quick to demand refunds."
+      example_query: "I’ve just spotted random charges on my bill again. I’m convinced your bank is adding hidden fees—what’s going on?"
+
+- topic: "Late Fee Inquiry"
+  example_types:
+    - example_type: "Long-Time Customer in Denial"
+      example_background: "Sophia believes her perfect payment record means any late fee must be a bank error."
+      example_query: "I’m certain I paid before the due date, so why was I hit with a €10 late fee? This must be a mistake!"
+    - example_type: "Requesting Grace Period"
+      example_background: "Jerome had an unexpected medical expense and wants a little leniency on his card payment."
+      example_query: "I was late this month due to hospital bills. Could you remove or reduce the late fee, just this once?"
+
+- topic: "Missing or Uncredited Rewards Points"
+  example_types:
+    - example_type: "Frequent Flyer Collector"
+      example_background: "Natalia travels monthly for work and monitors her airline miles closely."
+      example_query: "I made a €500 flight purchase, but my statement shows zero reward points added. I need those miles credited ASAP!"
+    - example_type: "Confused New Cardholder"
+      example_background: "Ethan recently got his first credit card and doesn’t fully grasp how points accumulate."
+      example_query: "I spent about €200 on groceries, but my rewards balance didn’t change. Am I misunderstanding how the points system works?"
+
+- topic: "Lost/Stolen Card"
+  example_types:
+    - example_type: "Panicked Traveler"
+      example_background: "Rachel is on vacation abroad, worried about unauthorized charges piling up."
+      example_query: "I can’t find my card while traveling in France! Please freeze my account right away so no one can charge it."
+    - example_type: "Calm Corporate User"
+      example_background: "Marcus uses his credit card for business expenses and wants a straightforward replacement process."
+      example_query: "I misplaced my card on a business trip. Can you guide me through getting a new one and ensuring no fraudulent use?"
+
+- topic: "Suspicious or Fraudulent Transaction"
+  example_types:
+    - example_type: "Identity-Theft Worrier"
+      example_background: "Clara reads a lot about data breaches and suspects fraud at the slightest discrepancy."
+      example_query: "I saw a €300 charge from a store I’ve never visited. I’m worried someone stole my info—can you check my account?"
+    - example_type: "Cautious Observer"
+      example_background: "Omar carefully verifies every transaction, so any unusual one stands out immediately."
+      example_query: "There’s a charge at a gas station on the other side of town. It’s small, but I definitely didn’t make it. How do I dispute this?"
+
+- topic: "Request to Increase Credit Limit"
+  example_types:
+    - example_type: "Startup Founder Under Pressure"
+      example_background: "Karim needs additional credit to cover unexpected costs for his small tech startup."
+      example_query: "My credit limit isn’t cutting it—I have a big equipment purchase due next week. Can we bump the limit quickly?"
+    - example_type: "Meticulous Budget Planner"
+      example_background: "Fatima wants a higher limit but also worries about how it affects her overall debt-to-credit ratio."
+      example_query: "I’m thinking of raising my limit to manage larger monthly expenses. Could you explain how this might impact my credit score?"
+
+- topic: "Payment Arrangement or Installment Plan"
+  example_types:
+    - example_type: "Recent Graduate in Debt"
+      example_background: "Tom just finished college and is juggling student loans alongside credit card bills."
+      example_query: "I’m struggling with my balance. Do you offer installment plans that let me pay smaller amounts over a few months?"
+    - example_type: "Family Caregiver"
+      example_background: "Melinda had unexpected medical bills for a family member, seeking flexible payment terms."
+      example_query: "Is there a way to split my €600 bill into equal installments? I need to keep my finances predictable this year."
+
+- topic: "Canceling the Card"
+  example_types:
+    - example_type: "Fee-Conscious Critic"
+      example_background: "Iván believes the annual fee isn’t worth it, especially if he barely uses the card."
+      example_query: "Your annual fee is too high, and I rarely use this card. How do I cancel and ensure no extra penalties?"
+    - example_type: "Peaceful Account Closer"
+      example_background: "Denise has found a better deal at another bank but wants a smooth closure process."
+      example_query: "I’ve decided to move to another provider. What steps should I follow to close my MillenniaCard with zero hassle?"
+
+- topic: "Application Status Check"
+  example_types:
+    - example_type: "Urgent Car Buyer"
+      example_background: "Matt needs a new credit card approval to cover part of a vehicle purchase deposit."
+      example_query: "I applied for the MillenniaCard last week and need it soon to finalize my car deal. Any updates on my approval?"
+    - example_type: "Patient Prospective Student"
+      example_background: "Elena will start university soon and is simply curious about the timeline for her student card application."
+      example_query: "Hi, I’m checking in on my student card application. I just want to know if it’s still being reviewed."
+
+- topic: "Over-Limit Situation"
+  example_types:
+    - example_type: "Confused Shopaholic"
+      example_background: "Cindy loves shopping and didn’t realize her big splurge would exceed her credit limit."
+      example_query: "My last purchase was declined at the checkout. I thought I had enough credit left—what happened?"
+    - example_type: "Embarrassed Overspender"
+      example_background: "Leo accidentally went over his limit while booking a vacation and now feels guilty."
+      example_query: "I overshot my limit by €200. How can I settle this quickly without hurting my credit score too much?"
+
+- topic: "Changing or Resetting PIN"
+  example_types:
+    - example_type: "Forgetful Elderly Customer"
+      example_background: "Mr. Hoffmann is retired and struggles with managing multiple PINs for his bank accounts."
+      example_query: "I can’t recall the PIN I set last month. Could you help me reset it? I have trouble keeping track these days."
+    - example_type: "Security-Focused Analyst"
+      example_background: "Kiana, a data analyst, regularly changes her PIN for peace of mind."
+      example_query: "I like updating my PIN every quarter. Can you walk me through the PIN reset process on the mobile app?"
+
+- topic: "International Usage/Travel Notice"
+  example_types:
+    - example_type: "Frequent Business Traveler"
+      example_background: "Derek flies internationally for work every month and needs seamless transactions abroad."
+      example_query: "I’ll be in Singapore next week for a conference. How do I avoid blocks or foreign transaction surprises?"
+    - example_type: "Budget Backpacker"
+      example_background: "Lily is planning a low-cost trip across Europe and worries about hidden fees."
+      example_query: "I’m backpacking through several countries. Does your card charge extra for currency conversions or ATM withdrawals?"
+
+- topic: "Adding a Joint Account Holder"
+  example_types:
+    - example_type: "Spouse Seeking Shared Finances"
+      example_background: "Marissa recently got married and wants her partner to access the same credit line."
+      example_query: "I’d like my spouse to have a card on my account. What do we need to do to officially add them?"
+    - example_type: "Caregiver for Elderly Parent"
+      example_background: "Jonathan manages bills for his aging mother and needs oversight on her credit usage."
+      example_query: "Is it possible for me to be a joint holder on my mom’s account so I can help keep track of her expenses?"
+
+- topic: "Requesting an Additional Card"
+  example_types:
+    - example_type: "Roommate Sharing Bills"
+      example_background: "Iris splits rent and groceries with her roommate, hoping to consolidate spending on one card."
+      example_query: "Could I get a second card for my roommate? We share expenses, and it’d be simpler to manage everything on one statement."
+    - example_type: "Freelance Consultant"
+      example_background: "Nathan wants different cards for personal and business to keep finances separate but under one account umbrella."
+      example_query: "I’d like an additional card so I can clearly split my freelance expenses from my personal spending. Is that allowed under the same account?"
+
+- topic: "Cash Advance Inquiry"
+  example_types:
+    - example_type: "Emergency Medical Bills"
+      example_background: "Olivia had an unexpected hospital visit and needs a quick cash advance for partial payments."
+      example_query: "I need to withdraw €500 cash from my credit line to cover hospital bills. How soon can I access the money, and what’s the fee?"
+    - example_type: "Curious Planner"
+      example_background: "Zhang is researching options in case of future emergencies, not in immediate need."
+      example_query: "I’m just checking: what are the interest and fees for a cash advance? I want to know before I ever need it."
+
+- topic: "Payment Not Posted Yet"
+  example_types:
+    - example_type: "Worried About Late Charges"
+      example_background: "Katerina paid her bill close to the due date and fears the transaction might be delayed."
+      example_query: "I paid €200 on the last day before it was due, but I don’t see it in my balance yet. Will I get a late fee?"
+    - example_type: "Calm Verifier"
+      example_background: "Tomas is methodical with his finances and just wants confirmation everything is recorded properly."
+      example_query: "I made a payment two days ago. Could you confirm if it’s been posted on my account? I don’t see it reflected online."
+
+- topic: "Confusion Over Student Card Benefits"
+  example_types:
+    - example_type: "Concerned Parent"
+      example_background: "Mrs. Patterson wants her daughter to build credit but also keep costs low."
+      example_query: "My daughter started university. Are there special rates or fee waivers, and does she still earn reward points like a normal card?"
+    - example_type: "Clueless Freshman"
+      example_background: "Kevin is 18, never used a credit card before, and has no idea how interest or statements work."
+      example_query: "I don’t understand how billing cycles work. If I buy books now, when do I actually pay you back?"
+
+- topic: "Mobile App Issues"
+  example_types:
+    - example_type: "Phone-Novice Senior"
+      example_background: "Mr. Wang got his first smartphone recently and finds the app interface confusing."
+      example_query: "I can’t see my transactions on the app. Do I need to update something, or am I missing a step?"
+    - example_type: "Tech-Savvy Complainer"
+      example_background: "Melissa is an IT professional who’s impatient with glitchy apps."
+      example_query: "Your mobile app crashed twice today while I was checking my balance. This is unacceptable—when will it be fixed?"
+
+- topic: "Name Change or Personal Details Update"
+  example_types:
+    - example_type: "Newly Married Professional"
+      example_background: "Anita just got married and is changing her last name across all her banking services."
+      example_query: "I need my new surname on the card ASAP. Which documents should I submit and how long will it take?"
+    - example_type: "Recently Transitioned Individual"
+      example_background: "Jules has gone through a legal name change and wants the card to reflect their new identity."
+      example_query: "I’ve legally changed my name. Do I need to re-apply for a new card, or can I update my existing one with new ID proof?"
+
+- topic: "Disputing a Transaction"
+  example_types:
+    - example_type: "Fraud Alarmist"
+      example_background: "Gabriella is extremely vigilant and assumes the worst whenever she sees an unknown charge."
+      example_query: "Someone charged €80 at a store I’ve never been to. I’m sure it’s fraud—can you freeze my account and reverse it?"
+    - example_type: "Polite But Firm"
+      example_background: "Samuel is calm and respects procedure but insists on a quick resolution."
+      example_query: "I see an incorrect €15 charge on my bill. I’d like to dispute it and get a refund—could you guide me on the steps?"
+
+- topic: "Confusion About Interest Rates"
+  example_types:
+    - example_type: "Overwhelmed Single Parent"
+      example_background: "Lucy has multiple bills and sometimes doesn’t catch the fine print on APR changes."
+      example_query: "My statement shows a higher interest charge than last month. Did my APR go up without warning?"
+    - example_type: "Curious Beginner"
+      example_background: "Ray is new to credit and wants a layman’s explanation of how interest is actually calculated."
+      example_query: "If I carry a balance of €500, how exactly is the interest added monthly? Is it daily compounding or something else?"
+
+- topic: "Paper Statement vs. E-Statement"
+  example_types:
+    - example_type: "Traditionalist Retiree"
+      example_background: "Mr. Bronson distrusts digital services and prefers physical mail for all financial documents."
+      example_query: "I don’t want online statements at all. How do I ensure I receive paper bills every month?"
+    - example_type: "Eco-Friendly Advocate"
+      example_background: "Zara is a sustainability enthusiast who wants to eliminate paper usage wherever possible."
+      example_query: "I’d like to switch everything to electronic billing only. Can you confirm I won’t get paper mail anymore?"
+
+- topic: "Reissue of Expired Card"
+  example_types:
+    - example_type: "Busy Professional"
+      example_background: "Jon has a tight schedule and doesn’t want to deal with delays in receiving a new card."
+      example_query: "My card is about to expire next week—can you expedite the new one so there’s no gap in usage?"
+    - example_type: "Unsure Graduate Student"
+      example_background: "Becky is balancing studies and finances, never dealt with an expired card replacement."
+      example_query: "My card just expired. Do I need to call someone, or is a new card automatically mailed to me?"
+
+- topic: "Upgrading or Downgrading Product Variant"
+  example_types:
+    - example_type: "Aspiring Platinum User"
+      example_background: "Ken is attracted by lounge access and travel perks but uncertain about the higher fees."
+      example_query: "I’m eyeing the Platinum card for extra rewards. How big is the annual fee jump, and do I have to reapply?"
+    - example_type: "Cost-Cutting Customer"
+      example_background: "Olivia realized she rarely uses the premium perks and wants to save on annual fees."
+      example_query: "I think Platinum is overkill for my needs. Can I downgrade to the Classic card without any penalties?"
+
+- topic: "New Customers"
+  example_types:
+    - example_type: "Overly Cautious First-Time Bank User"
+      example_background: "Mark is opening his very first credit card and is anxious about hidden fees or unexpected charges."
+      example_query: "I’m completely new to credit cards. Could you walk me through the basics of billing cycles and annual fees so I don’t get any surprises?"
+
+    - example_type: "Enthusiastic High-Earner"
+      example_background: "Rita just landed a high-paying job and wants a premium card with travel perks and a generous credit limit."
+      example_query: "I’m ready to go all-in on a top-tier card. If I have a higher income, can I qualify for the Platinum tier right away, and what are the main benefits?"  
